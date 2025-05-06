@@ -1,3 +1,4 @@
+import {Link} from 'react-router-dom';
 import './login.css'
 
 export default function  login() {
@@ -5,10 +6,12 @@ export default function  login() {
     <div className="login">
        <div className='card'>
       <div className='left'>
-        <h2>NapaExtra <br/>-</h2>
+        <h2> -<br/>NapaExtra <br/>-</h2>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id enim animi a laboriosam minima beatae tempora? Voluptatum libero dolorem similique!</p>
         <span>Don't Have An Account?</span>
-        <button className='btn btn-primary'>Register</button>
+        <Link to='/signup'>
+          <button className='btn btn-primary'>Register</button>
+        </Link>
       </div>
       <form className='right'>
         <input type='text' required placeholder='username'/>
