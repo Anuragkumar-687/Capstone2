@@ -5,10 +5,13 @@
     text-align: none;
     list-style: none;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    outline: none;
+    border: none ;
 }
 
 :root{
-    --color-primary: #6c63ff;
+    --color-primary: #6c63ff;  
     --text-color:black;
     --color-bg: rgb(236,236,236);
     --color-card: white;
@@ -16,7 +19,14 @@
     --color-border:lightgray;
     --color-red:red;
 }
-
+.darkmode{
+    --text-color:white ;
+    --color-bg: black ;
+    --color-card: #111111; 
+}
+body{
+    overflow-x: hidden;
+}
 .container{
     max-width: 991px;
     width:100%;
@@ -72,4 +82,25 @@ small,p{
 .btn-red{
     background: var(--color-red);
     color:white;
+}
+
+main{
+    display: grid;
+    grid-template-columns: 20% 54% 23%;
+    gap: 3%;
+    width: 100% ;
+}
+
+@media(max-width:1024px){
+    main{
+        grid-template-columns: 8% 56% 32%;
+    }
+}
+@media(max-width:768px){
+    main{
+        grid-template-columns: 100% ;
+    }
+    .container{
+        width: 94%;
+    }
 }
