@@ -9,7 +9,7 @@ import MeessageImage5 from '../assets/img/MessageProfile6.jpg'
 const Messages =[
     {
         id: 1,
-        name: 'Ahammed Alli',
+        name: 'Anurag Kumar',
         img: MeessageImage1,
         mText: 'Lorem ipsum dolor sit amet.'
     },

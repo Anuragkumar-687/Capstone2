@@ -14,7 +14,7 @@ export default function Stories() {
     <div className='stories'>
       <UserStory /> 
 
-      <Swiper style={{width:'80%'  }}
+      <Swiper style={{width:'80%'}}
       slidesPerView={4}
       spaceBetween={10}> 
       {
