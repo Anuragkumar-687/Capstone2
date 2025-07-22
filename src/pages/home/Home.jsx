@@ -3,6 +3,7 @@
 // Components........ 
 import Stories from '../../components/stories/Stories'
 import AddPost from '../../components/addPost/AddPost' 
+import Feeds from '../../components/feeds/Feeds'
 
 
 function Home() {
@@ -10,6 +11,7 @@ function Home() {
     <>
     <Stories />
     <AddPost />
+    <Feeds />
     </>
   )
 }
