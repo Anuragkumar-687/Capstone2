@@ -1,4 +1,5 @@
 import './comment.css'
+import {Link} from 'react-router-dom'
 
 // Fack Api..... 
 import CommetData from '../../FackApis/CommetData'
@@ -25,7 +26,7 @@ function Comments() {
                             <h5>{comment.name}</h5>
                             <p>{comment.CommeText}</p>
                         </div>
-                        
+                        <small>1h</small>
                     </div>
                 </Link>
             ))

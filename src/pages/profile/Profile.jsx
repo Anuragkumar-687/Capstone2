@@ -1,10 +1,15 @@
-import React from 'react'
+// components.... 
+import AddPost from '../../components/addPost/AddPost';
+import UserProfile from '../../components/userProfile/UserProfile';
+import Feeds from '../../components/feeds/Feeds';
 
 function Profile() {
   return (
-    <div>
-      
-    </div>
+    <>
+    <UserProfile />
+    <AddPost />
+    <Feeds />
+    </>
   )
 }
 
