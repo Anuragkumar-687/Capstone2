@@ -7,7 +7,7 @@ import { faMessage } from '@fortawesome/free-solid-svg-icons';
 import { faFeed } from '@fortawesome/free-solid-svg-icons';
 import { faLink } from '@fortawesome/free-solid-svg-icons';
 
-// FackApi..... 
+// Fake Api..... 
 import CurrentUserData from '../../FackApis/CurrentUserData';
 
 function UserProfile() {
@@ -38,7 +38,7 @@ function UserProfile() {
             </div>
             <div className="bio">
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit necessitatibus fugiat sapiente esse, tempore distinctio facere neque sed unde. Facilis.      
+                    Capturing life’s moments and turning them into stories that inspire. Love photography, travel, and exploring creative ways to share positivity online. Believer in connection, collaboration, and community growth.
                 </p>
             </div>
         </div>

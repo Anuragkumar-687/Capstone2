@@ -23,13 +23,13 @@ import Story9 from "../assets/img/story9.jpg";
 const Stories =[
     {
         id: 1, 
-        name: 'Irfan Nazir',
+        name: 'Ab de villiers',
         storyProfile: StoryProfile1,
         story: Story1
     },     
     {
         id: 2, 
-        name: 'Alyxa Doie',
+        name: 'sydney sweeny',
         storyProfile:StoryProfile2,
         story: Story2
     },     
@@ -41,19 +41,19 @@ const Stories =[
     },     
     {
         id: 4, 
-        name: 'Khatrin Frue',
+        name: 'Rohini Sharma',
         storyProfile: StoryProfile4,
         story: Story4
     },     
     {
         id: 5, 
-        name: 'Akib Khan',
+        name: 'Tom Cruise',
         storyProfile: StoryProfile5,
         story: Story5
     },     
     {
         id: 6, 
-        name: 'Puza Sing',
+        name: 'Puja Sing',
         storyProfile: StoryProfile6,
         story: Story6
     },     
@@ -65,7 +65,7 @@ const Stories =[
     },     
     {
         id: 8, 
-        name: 'Saima Abir',
+        name: 'Samuel Jackson',
         storyProfile: StoryProfile8,
         story: Story8
     },     

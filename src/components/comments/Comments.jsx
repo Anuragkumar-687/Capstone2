@@ -1,7 +1,7 @@
 import './comment.css'
 import {Link} from 'react-router-dom'
 
-// Fack Api..... 
+// Fake Api..... 
 import CommetData from '../../FackApis/CommetData'
 import CurrentUserData from '../../FackApis/CurrentUserData'
 

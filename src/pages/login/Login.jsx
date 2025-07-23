@@ -28,8 +28,9 @@ export default function Login() {
     <div className="login">
       <div className='card'>
         <div className='left'>
-          <h2> -<br />NapaExtra <br />-</h2>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id enim animi a laboriosam minima beatae tempora? Voluptatum libero dolorem similique!</p>
+          <h2> -<br />Proxima <br />-</h2>
+          <p>Welcome Back!
+Log in to continue sharing and connecting with friends.</p>
           <span>Don't Have An Account?</span>
           <Link to='/signup'>
             <button className='btn btn-primary'>Register</button>

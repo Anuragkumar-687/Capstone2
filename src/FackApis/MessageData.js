@@ -21,19 +21,19 @@ const Messages =[
     },
     {
         id: 3,
-        name: 'Ranvir Sing',
+        name: 'Virat Singh',
         img: MeessageImage3,
         mText:"You just made my feed 10x better 💫"
     },
     {
         id: 4,
-        name: 'Happy Rose',
+        name: 'Rose',
         img: MeessageImage4,
         mText: "Literally can’t scroll past without liking 🫶"
     },
     {
         id: 5,
-        name: 'Angela Flower',
+        name: 'Khusbu Singh',
         img: MeessageImage5,
         mText:"Iconic behavior only 👏🖤"
     },

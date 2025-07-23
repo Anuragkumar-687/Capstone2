@@ -1,10 +1,9 @@
 import './stories.css'
 
-// FackApis....... 
 import {Swiper, SwiperSlide} from 'swiper/react';
 import 'swiper/css';
 
-// FackApis....... 
+// Fake Apis....... 
 import StoriesData from '../../FackApis/StoriesData' 
 
 import UserStory from './UserStory'

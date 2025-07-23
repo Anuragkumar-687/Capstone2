@@ -29,8 +29,9 @@ export default function Signup() {
     <div className="signup">
       <div className='card'>
         <div className='left'>
-          <h2> -<br/>NapaExtra Signup<br/>-</h2>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id enim animi a laboriosam minima beatae tempora? Voluptatum libero dolorem similique!</p>
+          <h2> -<br/>Proxima Signup<br/>-</h2>
+          <p>Join Proxima Today
+Create an account to share your moments, connect, and explore.</p>
           <span>Have An Account?</span>
           <Link to='/login'>
             <button className='btn btn-primary'>Login</button>
