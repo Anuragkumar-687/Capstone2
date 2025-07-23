@@ -11,31 +11,31 @@ const Messages =[
         id: 1,
         name: 'Anurag Kumar',
         img: MeessageImage1,
-        mText: 'Lorem ipsum dolor sit amet.'
+        mText: "Always coming through with the vibes 🙌"
     },
     {
         id: 2,
         name: 'Mark William',
         img: MeessageImage2,
-        mText: 'Lorem ipsum dolor sit amet.'
+        mText:"Unreal. Are you even real? 👀"
     },
     {
         id: 3,
         name: 'Ranvir Sing',
         img: MeessageImage3,
-        mText: 'Lorem ipsum dolor sit amet.'
+        mText:"You just made my feed 10x better 💫"
     },
     {
         id: 4,
         name: 'Happy Rose',
         img: MeessageImage4,
-        mText: 'Lorem ipsum dolor sit amet.'
+        mText: "Literally can’t scroll past without liking 🫶"
     },
     {
         id: 5,
         name: 'Angela Flower',
         img: MeessageImage5,
-        mText: 'Lorem ipsum dolor sit amet.'
+        mText:"Iconic behavior only 👏🖤"
     },
 ];
 

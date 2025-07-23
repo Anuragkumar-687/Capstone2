@@ -35,7 +35,7 @@ const Feeds =[
         name: 'Lana White',
         feedImage: FeedImage1,
         feedProfile: feedProfile1,
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, distinctio'
+        desc: 'You’re seriously glowing 🔥🔥'
     },
     {
         id: 3,
@@ -43,7 +43,7 @@ const Feeds =[
         name: 'Dodo Vincey',
         feedImage: FeedImage3,
         feedProfile: feedProfile3,
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, distinctio'
+        desc: "How do you manage to look this good every time?? 😩✨"
     },
     {
         id: 4,
@@ -51,7 +51,7 @@ const Feeds =[
         name: 'Emaly Shea',
         feedImage: FeedImage4,
         feedProfile: feedProfile4,
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, distinctio'
+        desc: "Okay but this deserves way more likes 😍"
     },
     {
         id: 5,
@@ -59,7 +59,7 @@ const Feeds =[
         name: 'Fatema Anny',
         feedImage: FeedImage5,
         feedProfile: feedProfile5,
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, distinctio'
+        desc: "Setting the bar way too high 👑"
     },
     {
         id: 6,
@@ -67,7 +67,7 @@ const Feeds =[
         name: 'Evrahim Alli',
         feedImage: FeedImage6,
         feedProfile: feedProfile6,
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, distinctio'
+        desc: "Iconic behavior only 👏🖤"
     },
     {
         id: 7,
@@ -75,7 +75,7 @@ const Feeds =[
         name: 'Mohammed Nabi',
         feedImage: FeedImage7,
         feedProfile: feedProfile7,
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, distinctio'
+        desc:"Teach me your ways 😭"
     },
     {
         id: 8,
@@ -83,7 +83,7 @@ const Feeds =[
         name: 'Ema Cliopetra',
         feedImage: FeedImage8,
         feedProfile: feedProfile8,
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, distinctio'
+        desc: "Unreal. Are you even real? 👀"
     },  
     {
         id: 10,
@@ -91,7 +91,7 @@ const Feeds =[
         name: 'Muskan Khan',
         feedImage: FeedImage10,
         feedProfile: feedProfile10,
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, distinctio'
+        desc: "This is actually illegal levels of cool 😤"
     },
     {
         id: 11,
@@ -99,7 +99,7 @@ const Feeds =[
         name: 'Nuva Akhi',
         feedImage: FeedImage11,
         feedProfile: feedProfile11,
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, distinctio'
+        desc: "Wait… who gave you permission to slay like this? 💅"
     },
     {
         id: 12,
@@ -107,7 +107,7 @@ const Feeds =[
         name: 'David Milar',
         feedImage: FeedImage12,
         feedProfile: feedProfile12,
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, distinctio'
+        desc: "Drop the skincare routine or we riot 🧴💣"
     },
     {
         id: 13,
@@ -115,7 +115,7 @@ const Feeds =[
         name: 'Malkova Williams',
         feedImage: FeedImage13,
         feedProfile: feedProfile13,
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, distinctio'
+        desc: "Always coming through with the vibes 🙌"
     },
 ];
 

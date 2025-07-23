@@ -43,7 +43,7 @@ function Feed({fed}) {
         </div>
         <div className="bottom-content">
             <div className="action-item">
-                <span><FontAwesomeIcon icon={faHeart} />14 Like</span>
+                <span><FontAwesomeIcon icon={faHeart} />15 Like</span>
             </div>
             <div className="action-item" onClick={CommentHandeler}>
                 <span><FontAwesomeIcon icon={faComment} />2 Comment</span>

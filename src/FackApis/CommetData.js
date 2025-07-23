@@ -7,13 +7,13 @@ const Comments =[
         id: 1, 
         name: 'Dodo Vincey',
         commentProfile: Comment1,
-        CommeText: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, distinctio'
+        CommeText: 'hello how are you? I under the water'
     },     
     {
         id: 2, 
         name: 'David Milar',
         commentProfile:Comment2,
-        CommeText: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, distinctio'
+        CommeText: 'I am the best cricketer in the world'
     }, 
 ]
 
