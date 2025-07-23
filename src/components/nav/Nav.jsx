@@ -18,7 +18,7 @@ function Nav() {
         {/* ....... NavAria Left......  */}
         <div className="nav-left">
         <Link to='/'>
-            <h3 className='logo'>NapaExtra</h3>
+            <h3 className='logo'>Pixora</h3>
           </Link>
           <Link to='/'>
             <FontAwesomeIcon icon={faHome}/>
